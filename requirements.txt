@@ -8,3 +8,4 @@ pydantic
 openai
 fastapi-cors
 fastapi-websocket-rpc
+flask
