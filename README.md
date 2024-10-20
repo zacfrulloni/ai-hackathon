@@ -1,6 +1,4 @@
-Dissertation Project
-
-Welcome to the Dissertation Project repository. This project is designed to facilitate data collection by generating Python scripts based on user queries, which interact with various APIs such as Google Maps, OpenAI, and LangChain.
+This project is designed to facilitate data collection by generating Python scripts based on user queries, which interact with various APIs such as Google Maps, OpenAI, and LangChain.
 
 This project simplifies data collection by generating and executing Python scripts based on user input. Users can interact with the application via a web interface, input queries, and receive relevant Python scripts that can interact with APIs like Google Maps.
 
