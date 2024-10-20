@@ -1,4 +1,5 @@
 class MultiStream:
+    # init
     def __init__(self, *streams):
         self.streams = streams
 
