@@ -2,6 +2,7 @@ import sys
 import time
 import json
 import contextlib
+import requests
 from fastapi import APIRouter, HTTPException, BackgroundTasks, WebSocket, WebSocketDisconnect, Request
 from pydantic import BaseModel
 from langchain.chains.openai_functions import create_structured_output_runnable
