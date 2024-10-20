@@ -4,7 +4,6 @@ from dotenv import load_dotenv
 
 load_dotenv()
 config = {
-    # "langchain_api_key": null,
     "langchain_api_key": None,
     "google_maps_api_key": None,
     "openai_api_key": None,
