@@ -15,7 +15,7 @@ Features
 * Download the execution results in a text file.
 Installation
 
-Clone the repository: git clone https://github.com/zacfrulloni/dissertation.git
+Clone the repository: git clone https://github.com/zacfrulloni/ai-hackathon.git
    
 cd dissertation
      
